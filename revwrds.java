@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-class Reve_word
+class Revwrd
 {
 public static void main(String [] args)
 {
